@@ -11,7 +11,7 @@
   "dependencies": {
     "@fullhuman/postcss-purgecss": "^2.3.0",
     "@tailwindcss/custom-forms": "^0.2.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^3.6.5",
     "tailwindcss": "^1.4.6",
     "vue": "^2.6.11",
